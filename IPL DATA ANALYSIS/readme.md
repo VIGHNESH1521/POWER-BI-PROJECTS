@@ -1,3 +1,5 @@
+# Indian Premier League
+
 The Indian Premier League (IPL) is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities.
 The league was founded by the Board of Control for Cricket in India (BCCI) in 2007.
 
