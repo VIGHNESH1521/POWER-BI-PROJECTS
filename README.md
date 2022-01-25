@@ -2,7 +2,7 @@
 
 # What is BI?
 
-![image](https://user-images.githubusercontent.com/90493668/148654611-c8ec5d94-fa03-4743-bcf4-3b6bd6f3c306.png)
+![image](https://user-images.githubusercontent.com/90493668/151047126-36761fcb-a809-4001-9fad-6df557811d4e.png)
 
 
 Business intelligence is a technology-driven method which helps you to analyze data and to provide actionable information which helps corporate executives, business managers, and other users to make informed business decisions.
