@@ -7,7 +7,7 @@
 
 Business intelligence is a technology-driven method which helps you to analyze data and to provide actionable information which helps corporate executives, business managers, and other users to make informed business decisions.
 
-![image](https://user-images.githubusercontent.com/90493668/148654283-c670cb8f-66ce-4163-821b-78d8e32e00e7.png)
+![image](https://user-images.githubusercontent.com/90493668/151047003-f95587b2-6298-45c6-a914-155d6ad44b45.png)
 
 # What is Power BI? 
 
