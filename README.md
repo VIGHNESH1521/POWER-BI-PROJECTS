@@ -32,9 +32,9 @@ Offers feature for dashboard visualization regularly updated with the community.
 
 Here, are an important professional who uses Power BI tool:
 
-PMO – Project and Portfolio Manager
-Business & Data Analyst
-Developer & Database Administrator
-IT Team, IT Professional
-Consumer for End User Report
-Data Scientist
+- Business and data analyst
+- Project and portfolio manager
+- IT team and IT professionals
+- Developers and database administrator
+- Data scientist
+- Consumer for end-user report
