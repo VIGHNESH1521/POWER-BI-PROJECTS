@@ -27,6 +27,9 @@ Power BI offers Quick deployment, hybrid configuration, and secure environment.
 Allows data exploration using natural language query
 Offers feature for dashboard visualization regularly updated with the community.
 
+![image](https://user-images.githubusercontent.com/90493668/151047323-33e89af4-65b0-4075-9702-c0a853c2c504.png)
+
+
 # Who uses Power BI?
 
 Here, are an important professional who uses Power BI tool:
