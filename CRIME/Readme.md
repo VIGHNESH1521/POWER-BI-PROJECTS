@@ -1,6 +1,6 @@
 # VIOLENCE AGAINST WOMEN
 
-![image](https://user-images.githubusercontent.com/90493668/152640517-8d95e1e6-a0c6-44ca-a048-8ba6ab1c34a3.png) ![image](https://user-images.githubusercontent.com/90493668/152640546-40116d8c-6723-4de8-96e3-92a8f619f312.png)
+![image](https://user-images.githubusercontent.com/90493668/152640517-8d95e1e6-a0c6-44ca-a048-8ba6ab1c34a3.png) ![image](https://user-images.githubusercontent.com/90493668/152647575-f33cdda3-e7f0-4788-a214-301b23b94b7b.png) ![image](https://user-images.githubusercontent.com/90493668/152640546-40116d8c-6723-4de8-96e3-92a8f619f312.png)
 
 
 
