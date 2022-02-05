@@ -1,7 +1,9 @@
 # VIOLENCE AGAINST WOMEN
 
-![image](https://user-images.githubusercontent.com/90493668/152640517-8d95e1e6-a0c6-44ca-a048-8ba6ab1c34a3.png) ![image](https://user-images.githubusercontent.com/90493668/152647575-f33cdda3-e7f0-4788-a214-301b23b94b7b.png) ![image](https://user-images.githubusercontent.com/90493668/152640546-40116d8c-6723-4de8-96e3-92a8f619f312.png)
+![image](https://user-images.githubusercontent.com/90493668/152640517-8d95e1e6-a0c6-44ca-a048-8ba6ab1c34a3.png)
 
+
+![image](https://user-images.githubusercontent.com/90493668/152647575-f33cdda3-e7f0-4788-a214-301b23b94b7b.png)
 
 
 Violence against women (VAW), also known as gender-based violence and sexual and gender-based violence (SGBV), are violent acts primarily or exclusively committed against women or girls. Such violence is often considered a form of hate crime, committed against women or girls specifically because they are female, and can take many forms.
@@ -9,6 +11,8 @@ Violence against women (VAW), also known as gender-based violence and sexual and
 VAW has a very long history, though the incidents and intensity of such violence have varied over time and even today vary between societies. Such violence is often seen as a mechanism for the subjugation of women, whether in society in general or in an interpersonal relationship. Such violence may arise from a sense of entitlement, superiority, misogyny or similar attitudes in the perpetrator or his violent nature, especially against women.
 
 # Key facts
+
+ ![image](https://user-images.githubusercontent.com/90493668/152640546-40116d8c-6723-4de8-96e3-92a8f619f312.png)
 
 Violence against women – particularly intimate partner violence and sexual violence – is a major public health problem and a violation of women's human rights.
 
