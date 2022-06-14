@@ -1,1 +1,4 @@
+![image](https://user-images.githubusercontent.com/90493668/173591891-80b802cb-08d9-45a8-9037-9fe8da26b57c.png) ![image](https://user-images.githubusercontent.com/90493668/173591944-6f50f98b-4c25-4d35-bf90-539381ace8b5.png)
+![image](https://user-images.githubusercontent.com/90493668/173592006-e7988095-f4d6-4268-b5bc-baabe3cb4c74.png) ![image](https://user-images.githubusercontent.com/90493668/173592070-e4e02a80-d59e-420c-816e-fd1d6728d2cd.png)
 
+Mass shootings have become such a regular fixture on the news that it has been difficult to stay on top of each new incident. In fact, according to a recent article in the New York Times, there have been 26 mass shootings in summer 2019 alone, leaving 126 people dead. Of course, it’s no secret that this type of violence is a problem in the United States, but there is no consensus about how to reduce the number of deaths by gun violence.
